@@ -4,7 +4,9 @@ A simple, responsive academic website for GitHub Pages, using plain HTML and CSS
 
 ## Edit
 
-- Update biography, research interests and papers in `index.html`.
+- Update the biography, recruitment note and research interests in `index.html`.
+- Update papers in `papers.html`.
+- Update degrees, postdoctoral experience and prizes in `education.html`.
 - Adjust the layout in `styles.css`.
 - Replace the portrait at `assets/miha-bresar.jpg` if needed.
 
@@ -13,8 +15,8 @@ No packages or build step are required. Open `index.html` in a browser, or run
 
 ## GitHub Pages
 
-The intended repository is `MihaBresar/mihabresar.github.io`, with public website
-address `https://mihabresar.github.io/` once GitHub Pages is enabled.
+The repository is `MihaBresar/mihabresar.github.io`, with public website
+address `https://mihabresar.github.io/`.
 
 In the repository's **Settings → Pages**, select **Deploy from a branch**, then
 choose the **main** branch and **/ (root)** directory, and save.
@@ -27,6 +29,13 @@ and original paper list come from the author's
 Machine learning for finance and AI for mathematics were added at the author's
 request. The biography was shortened at the author's request. The four research
 interests are displayed with equal weight, without detailed subtopics.
+
+Degree subjects, institutions and study dates follow the author's
+[CUHK-Shenzhen SDS profile](https://sds.cuhk.edu.cn/en/teacher/2238).
+The 2023–2025 postdoctoral dates were supplied by the author. Prize names and
+2025 award dates were checked against the linked G-Research and Warwick
+announcements. The homepage omits the PhD award year; the education page shows
+the 2020–2023 study period recorded by SDS.
 
 The complete list was checked on 7 October 2026 against the author's public
 [Google Scholar profile](https://scholar.google.com/citations?user=mRjFtsEAAAAJ&hl=en),
